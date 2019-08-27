@@ -64,14 +64,7 @@ def login(userid, password):
 
     if result == "fail":
         return ""
-
-    # wlanuserip%253D0bc386d9e643d188b011a0d00c9b5c40%2526
-    # wlanacname%253D5fcbc245a7ffdfa4%2526
-    # ssid%253D%2526
-    # nasip%253D2c0716b583c8ac3cbd7567a84cfde5a8%2526
-    # mac%253D53ba540bde596b811a6d5617a86fa028%2526
-    # t%253Dwireless-v2%2526
-    # url%253D2c0328164651e2b4f13b933ddf36628bea622dedcc302b30
+    
     return result
 
 
